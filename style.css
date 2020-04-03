@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+/* carusel css code */
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.lite-orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.price{
+    color: #FF136F;
+    padding: 10px 0px;
+
+}
+
+.bye-now-btn{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 10px;
+}
+
+/* categories css code */
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+/* shoes part css code */
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+/* Backpack part css code */
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+/* Subscribe part css code */
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+
+/* footer part css code */
+
+footer{
+    text-align: center;
+    padding-bottom: 10px;
+}
